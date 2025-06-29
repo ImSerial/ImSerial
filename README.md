@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello 👋 !<br><br>🤖 I am currently reviving an old discord bot project.<br><br>I'm still learning certain computer languages ​​like LUA. Here's a list of the languages ​​I'm fluent in. As a reminder, I'm just a junior developer, I'm still learning 🌱<br><br>HTML & Css🎨<br>Javascript (discord.js)🧠<br>Python🐍<br><br>✏️ If you want to contact me, here is my nickname on Discord: serial_checker
+Hello 👋 !<br><br>🤖 I am currently reviving an old discord bot project.<br><br>I'm still learning certain computer languages ​​like LUA. Here's a list of the languages ​​I'm fluent in. As a reminder, I'm just a junior developer, I'm still learning 🌱<br><br>HTML & Css🎨<br>Javascript (discord.js)🧠<br>Python🐍<br><br>✏️ If you want to contact me, here is my nickname. on Discord: serial_checker
 
 
 ## 🌐 Socials:
