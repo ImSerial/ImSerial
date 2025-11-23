@@ -26,5 +26,3 @@ Salut ! <br><br> Je suis en train de relancer un ancien projet de bot Discord. <
 
 ## Vous pouvez m'aider en faisant un don.
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/tulauraspastconouquoi) 
-
-![snake gif](https://github.com/ImSerial/ImSerial/blob/output/github-contribution-grid-snake.gif)
