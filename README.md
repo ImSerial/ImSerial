@@ -1,5 +1,5 @@
 # A propos de moi...
-Salut ! <br><br>Je suis en train de relancer un ancien projet de bot Discord.<br><br>J'apprends encore certains langages informatiques comme Lua. Voici une liste des langages que je maîtrise. Pour rappel, je suis un développeur junior et je suis encore en phase d'apprentissage. <br><br>HTML & Css<br>Javascript (discord.js)<br>Python<br><br>Si vous souhaitez me contacter, voici mon pseudo sur Discord : "uxqt"
+Salut ! <br><br> Je suis en train de relancer un ancien projet de bot Discord. <br><br> J'apprends encore certains langages informatiques comme Lua. Voici une liste des langages que je maîtrise. Pour rappel, je suis un développeur "Débutant" et je suis encore en phase d'apprentissage. <br><br>HTML & CSS <br> Javascript (discord.js) <br> Python <br><br> Si vous souhaitez me contacter, voici mon pseudo sur Discord : "uxqt"
 
 
 ## Mes Réseaux :
