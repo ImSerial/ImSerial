@@ -20,6 +20,3 @@ Salut ! <br><br> Je suis en train de relancer un ancien projet de bot Discord. <
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ImSerial&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## Vous pouvez m'aider en faisant un don.
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/tulauraspastconouquoi) 
