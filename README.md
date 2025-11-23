@@ -15,9 +15,6 @@ Salut ! <br><br> Je suis en train de relancer un ancien projet de bot Discord. <
 ## Mes Trophées Github
 ![](https://github-profile-trophy.vercel.app/?username=ImSerial&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
 ### Repo avec le plus de contribution
 ![](https://github-contributor-stats.vercel.app/api?username=ImSerial&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
